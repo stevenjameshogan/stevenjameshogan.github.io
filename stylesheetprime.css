@@ -1,0 +1,83 @@
+body {
+	background-image: url('https://imgur.com/94Q4MZN');
+}
+
+
+#container {
+	margin-top: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 50px 100px 10px 100px;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	border-style: solid;
+	font-family: "Century Gothic", sans-serif;
+
+}
+
+#content-contact {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content-profile {
+	border-left-width: 10px;
+	border-left-style: solid;
+	border-left-color: #696969;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+
+#content-experience {
+	border-left-width: 10px;
+	border-left-style: solid;
+	border-left-color: #808080;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+
+#content-education {
+	border-left-width: 10px;
+	border-left-style: solid;
+	border-left-color: #A9A9A9;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+
+#content-skills {
+	border-left-width: 10px;
+	border-left-style: solid;
+	border-left-color: #C0C0C0;
+	padding-left: 30px;
+}
+
+h1 {
+	margin: 0px;
+	padding: 10px;
+	font-size: 56px;
+}
+
+h2 {
+	font-size: 27px;
+}
+
+h3 {
+	font-size: 18px;
+
+}
+
+h4 {
+
+}
+
+h5 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+}
+
+li {
+	font-size: 16px;
+
+}
