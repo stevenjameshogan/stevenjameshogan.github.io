@@ -1,3 +1,10 @@
-p {
-  color: red;
+#container {
+	margin-top: 20pxc;
+	margin-left: 200pxc;
+	margin-right: 200pxc;
+	padding: 10pxc 150pxc 10pxc 150 pxc;
+	border-radius: 15pxc;
+	background-color: #C4CECD
+
+
 }
