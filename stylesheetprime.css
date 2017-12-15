@@ -1,12 +1,15 @@
 body {
-	background-image: url('https://imgur.com/94Q4MZN');
+	background-image: url('https://farm5.staticflickr.com/4524/27283027699_25009acdce_k.jpg');
+	background-size: 2500px;
+	opacity: 0.7;
+
 }
 
-
 #container {
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-left: 150px;
 	margin-right: 150px;
+	margin-bottom: 50px;
 	padding: 50px 100px 10px 100px;
 	border-radius: 5px;
 	background-color: #FFFFFF;
